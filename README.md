@@ -3,7 +3,7 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Version](https://img.shields.io/badge/version-1.0.1-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Platform](https://img.shields.io/badge/platform-Linux%20|%20Windows%20|%20macOS-lightgrey)
+![Platform](https://img.shields.io/badge/platform-%20Windows%20-lightgrey)
 ![QT](https://img.shields.io/badge/QT-6.x-blue)
 
 V-Fetcher是一个使用现代C++和QT6 精心打造的先进工具，旨在为追求效率和性能的网络用户提供无缝的在线体验。它不仅从网络上搜寻免费的V2Ray节点，还能智能分析节点健康度和连接速度，自动选择最佳节点，保证您的网络连接既稳定又快速。此外，其完全免费的特性，使其在提升网络使用效率的同时，保持对所有用户的无限开放。
