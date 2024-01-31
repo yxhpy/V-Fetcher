@@ -21,7 +21,7 @@ V-Fetcher是一个使用现代C++和QT6 精心打造的先进工具，旨在为�
 您可以通过克隆本项目的仓库来快速开始体验V-Fetcher的强大功能：
 
 ```
-git clone https://github.com/<您的用户名>/V-Fetcher.git
+git clone https://github.com/yxhpy/V-Fetcher.git
 cd V-Fetcher
 ```
 
